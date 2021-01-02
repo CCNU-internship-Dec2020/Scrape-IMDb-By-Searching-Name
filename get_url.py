@@ -33,5 +33,10 @@ for movie_count in range(0, len(title)):
 
 # the list of search_mov_url contains the URL of movies searching
 # 3883 URLs, 3952 movie_id
-print(search_mov_url)
+# print(search_mov_url)
 print(len(search_mov_url))
+
+file=open('searchMovUrlList.txt','a')
+file.write(str(search_mov_url));
+file.close()
+
