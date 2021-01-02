@@ -9,7 +9,7 @@ python3 get_url.py
 This script convert the string of movie name and its release year to IMDb's searching format in order to make the result more correct, which means the first searching result in list is what we want.
 
 ## Second step: Get the movie's title id in IMDb
-Use the 'hand-made' URL to search movies in the website. Extract the <a> tag which contains a relative file path to find the sole movie-id.
+Use the 'hand-made' URL to search movies in the website. Extract the `<a> tag` which contains a relative file path to find the sole movie-id.
 ```
 python3 get_ttid.py
 ```
