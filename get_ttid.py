@@ -8,8 +8,19 @@ import json
 import requests
 import re
 
+mov_search_url_list = list()
 
-def get_title_id(url):
+def get_url_list(rootdir):
+    with open(rootdir, 'r') as file_to_read:
+        while True:
+            line = file_to_read.readline()
+            if not line:
+                break
+            line = line.strip('\n')
+            mov_search_url_list.append(line)
+    return mov_search_url_list
+
+def get_title_id(index, url):
     try:
         response = requests.get(url)
         soup = BeautifulSoup(response.text)
@@ -24,13 +35,17 @@ def get_title_id(url):
 
         title_id_a_str = str(web_table.a)
         title_id = title_id_a_str.split('/')[2]
+        print(index)
         print(title_id) # tt0208874
-
     except Exception as e:
          print("Find title id failed!")
 
+    return title_id
 
 def main():
-    get_title_id("https://www.imdb.com/find?s=tt&q=The+Contender+%282000%29")
+    get_url_list("searchMovUrlList_byLine.txt") #get a list with 3883 items
+    for i in range(len(mov_search_url_list)):
+        get_title_id(i, mov_search_url_list[i])
+
 
 main()
