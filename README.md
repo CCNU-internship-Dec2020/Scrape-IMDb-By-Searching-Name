@@ -20,7 +20,7 @@ Movie details scraping in Python3.
 ├── searchMovUrlList_byLine.txt    The encode URLs in line.
 └── table.html                     bs4
 ```
-## [New update]: Begin from the second step
+## [New update]: Begin from the second step :two:
 
 ## First step: Get the searching URL
 We are given the [data set](https://github.com/CCNU-internship-Dec2020/Scrape-IMDb-By-Searching-Name/blob/main/movies.dat) which contains the movie names. In the first step we should use the name to search the matching movies preview in the IMDb website.
@@ -59,7 +59,31 @@ python3 add_pic_clarity.py
 ## The final step: Sort data
 The step four would add many new data which are unordered. In this step, sorting the data and get them in a list of lists.
 ```
-python3 movie_id_sort.py
+python3 movie_id_sort.py > data.txt
 ```
 
-Well done! Enjoy our script!
+Well done! Enjoy our script!:satisfied:
+
+
+## Input and Output
+### step 2 get_ttid.py
+input output
+|  input   | output  | log | network | data loss |
+|  ----  |  ----  |  ----  |  ----  |  ----  |
+| movies.dat  | excess_log.txt | err_log.txt | :o: | lost :bangbang: |
+### step 3 content.py
+|  input   | output  | log | network | data loss |
+|  ----  | ----  |  ----  |  ----  |  ----  |
+| excess_log.txt  | Scrape_IMDb.txt | scrape_err_log.txt | :o: | lost :bangbang: |
+### step 4 find_lost.py
+|  input   | output  | log | network | data loss |
+|  ----  | ----  |  ----  |  ----  |  ----  |
+| excess_log.txt & Scrape_IMDb.txt  | lost_id_1.txt | NULL | do not need | maybe :bangbang: |
+### step 5 add_pic_clarity.py
+|  input   | output  | log | network | data loss |
+|  ----  | ----  |  ----  |  ----  |  ----  |
+| Scrape_IMDb.txt  | Scrape_IMDb_pic_clarity.txt | NULL | do not need | no |
+### the last step movie_id_sort.py
+|  input   | output  | log | network | data loss |
+|  ----  | ----  |  ----  |  ----  |  ----  |
+| Scrape_IMDb_pic_clarity.txt  | data.txt | NULL | do not need | no |
