@@ -20,7 +20,7 @@ Movie details scraping in Python3.
 ├── searchMovUrlList_byLine.txt    The encode URLs in line.
 └── table.html                     bs4
 ```
-## [New update]: Begin from step three
+## [New update]: Begin from the second step
 
 ## First step: Get the searching URL
 We are given the [data set](https://github.com/CCNU-internship-Dec2020/Scrape-IMDb-By-Searching-Name/blob/main/movies.dat) which contains the movie names. In the first step we should use the name to search the matching movies preview in the IMDb website.
