@@ -21,7 +21,7 @@
 770::Costa Brava (1946)::Drama::Costa+Brava+%281946%29::https://www.imdb.com/title/tt0109489/
 780::Independence Day (ID4) (1996)::Action|Sci-Fi|War::Independence+Day+%28ID4%29+%281996%29::https://www.imdb.com/title/tt0116629/
 855::Every Other Weekend (1990)::Drama::Every+Other+Weekend+%281990%29::https://www.imdb.com/title/tt0100840/
-888::Land Before Time III: The Time of the Great Giving (1995)::Animation|Children's::Land+Before+Time+III%3A+The+Time+of+the+Great+Giving+%281995%29::https://www.imdb.com/title/tt7926508/
+888::Land Before Time III: The Time of the Great Giving (1995)::Animation|Children's::Land+Before+Time+III%3A+The+Time+of+the+Great+Giving+%281995%29::https://www.imdb.com/title/tt0095489/
 1065::The Woman in Question (1950)::Mystery::The+Woman+in+Question+%281950%29::https://www.imdb.com/title/tt0043140/
 
 1130::The Howling (1980)::Horror::The+Howling+%281980%29::https://www.imdb.com/title/tt0082533/
