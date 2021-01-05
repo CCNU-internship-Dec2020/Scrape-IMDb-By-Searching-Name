@@ -1,4 +1,4 @@
-# Scrape-IMDb-By-Searching-Name
+# Scrape IMDb Movies By Searching Name
 Movie details scraping in Python3.
 
 ```
@@ -21,7 +21,7 @@ Movie details scraping in Python3.
 └── table.html                     bs4
 ```
 
-## install
+## Install
 This project uses `python3`, `requests` and `Beautiful Soup`. Go check them out if you don't have them locally installed.
 ```
 python -m pip3 install requests
@@ -29,7 +29,7 @@ pip3 install beautifulsoup4
 ```
 
 ## Usage
-### [New update]: Begin from the second step :two:
+### [New update]: Begin from the [second step](#second-step-get-the-movies-title-id-in-imdb)
 ### First step: Get the searching URL
 We are given the [data set](https://github.com/CCNU-internship-Dec2020/Scrape-IMDb-By-Searching-Name/blob/main/movies.dat) which contains the movie names. In the first step we should use the name to search the matching movies preview in the IMDb website.
 ```
@@ -74,23 +74,31 @@ Well done! Enjoy our script!:satisfied:
 
 
 ### Input and Output
-#### step 2 get_ttid.py
+#### Step 2: get_ttid.py
 |  input   | output  | log | network | data loss |
 |  :----  |  :----  |  :----  |  :----  |  :----  |
 | movies.dat  | excess_log.txt | err_log.txt | :o: | lost :bangbang: |
-#### step 3 content.py
+#### Step 3: content.py
 |  input   | output  | log | network | data loss |
 |  :----  |  :----  |  :----  |  :----  |  :----  |
 | excess_log.txt  | Scrape_IMDb.txt | scrape_err_log.txt | :o: | lost :bangbang: |
-#### step 4 find_lost.py
+#### Step 4: find_lost.py
 |  input   | output  | log | network | data loss |
 |  :----  |  :----  |  :----  |  :----  |  :----  |
 | excess_log.txt & Scrape_IMDb.txt  | lost_id_1.txt | NULL | do not need | maybe :bangbang: |
-#### step 5 add_pic_clarity.py
+#### Step 5: add_pic_clarity.py
 |  input   | output  | log | network | data loss |
 |  :----  |  :----  |  :----  |  :----  |  :----  |
 | Scrape_IMDb.txt  | Scrape_IMDb_pic_clarity.txt | NULL | do not need | no |
-#### the last step movie_id_sort.py
+#### The last step: movie_id_sort.py
 |  input   | output  | log | network | data loss |
 |  :----  |  :----  |  :----  |  :----  |  :----  |
 | Scrape_IMDb_pic_clarity.txt  | data.txt | NULL | do not need | no |
+
+
+## Contributors
+Thanks to all the people who contribute. Feel free to dive in! Open an issue or submit PRs.
+@wwyqianqian @Darren2017
+
+## License
+[MIT](https://github.com/CCNU-internship-Dec2020/Scrape-IMDb-By-Searching-Name/blob/main/LICENSE) © CCNU-internship-Dec2020
