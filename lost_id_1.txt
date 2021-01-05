@@ -1,0 +1,90 @@
+32::Twelve Monkeys (1995)::Drama|Sci-Fi::Twelve+Monkeys+%281995%29::https://www.imdb.com/title/tt2693930/
+96::In the Bleak Midwinter (1995)::Comedy::In+the+Bleak+Midwinter+%281995%29::https://www.imdb.com/title/tt1951951/
+140::Up Close and Personal (1996)::Drama|Romance::Up+Close+and+Personal+%281996%29::https://www.imdb.com/title/tt0497080/
+142::Shadows (Cienie) (1988)::Drama::Shadows+%28Cienie%29+%281988%29::https://www.imdb.com/title/tt0094878/
+253::Interview with the Vampire (1994)::Drama|Horror::Interview+with+the+Vampire+%281994%29::https://www.imdb.com/title/tt2816096/
+264::L' Enfer (1994)::Drama::L%27+Enfer+%281994%29::https://www.imdb.com/title/tt1957516/
+328::Tales From the Crypt Presents: Demon Knight (1995)::Horror::Tales+From+the+Crypt+Presents%3A+Demon+Knight+%281995%29::https://www.imdb.com/title/tt12545320/
+390::Faster Pussycat! Kill! Kill! (1965)::Action|Comedy|Drama::Faster+Pussycat%21+Kill%21+Kill%21+%281965%29::https://www.imdb.com/title/tt12362770/
+402::Open Season (1996)::Comedy::Open+Season+%281996%29::https://www.imdb.com/title/tt1432733/
+405::Highlander III: The Sorcerer (1994)::Action|Sci-Fi::Highlander+III%3A+The+Sorcerer+%281994%29::https://www.imdb.com/title/tt6855528/
+477::What's Love Got to Do with It? (1993)::Drama::What%27s+Love+Got+to+Do+with+It%3F+%281993%29::https://www.imdb.com/title/tt0711413/
+506::Orlando (1993)::Drama::Orlando+%281993%29::https://www.imdb.com/title/tt0255451/
+559::France Paris (1993)::Comedy::France+Paris+%281993%29::https://www.imdb.com/title/tt4402736/
+655::Mutters Courage (1995)::Comedy::Mutters+Courage+%281995%29::https://www.imdb.com/title/tt0198525/
+718::The Visitors (Les Visiteurs)::Comedy|Sci-Fi::The+Visitors+%28Les+Visiteurs%29::https://www.imdb.com/title/tt4809972/
+727::War Stories (1995)::Documentary::War+Stories+%281995%29::https://www.imdb.com/title/tt0114894/
+730::The Low Life (1994)::Drama::The+Low+Life+%281994%29::https://www.imdb.com/title/tt0125877/
+735::Cemetery Man (Dellamorte Dellamore) (1994)::Comedy|Horror::Cemetery+Man+%28Dellamorte+Dellamore%29+%281994%29::https://www.imdb.com/title/tt2332155/
+752::Vermont Is For Lovers (1992)::Comedy|Romance::Vermont+Is+For+Lovers+%281992%29::https://www.imdb.com/title/tt0105737/
+769::Marlene Dietrich: Shadow and Light (1996)::Documentary::Marlene+Dietrich%3A+Shadow+and+Light+%281996%29::https://www.imdb.com/title/tt0116992/
+770::Costa Brava (1946)::Drama::Costa+Brava+%281946%29::https://www.imdb.com/title/tt0038426/
+780::Independence Day (ID4) (1996)::Action|Sci-Fi|War::Independence+Day+%28ID4%29+%281996%29::https://www.imdb.com/title/tt12397520/
+855::Every Other Weekend (1990)::Drama::Every+Other+Weekend+%281990%29::https://www.imdb.com/title/tt6111598/
+888::Land Before Time III: The Time of the Great Giving (1995)::Animation|Children's::Land+Before+Time+III%3A+The+Time+of+the+Great+Giving+%281995%29::https://www.imdb.com/title/tt7926508/
+1065::The Woman in Question (1950)::Mystery::The+Woman+in+Question+%281950%29::https://www.imdb.com/title/tt1098459/
+1107::Loser (1991)::Comedy::Loser+%281991%29::https://www.imdb.com/title/tt0102336/
+1130::The Howling (1980)::Horror::The+Howling+%281980%29::https://www.imdb.com/title/tt10886080/
+1142::Get Over It (1996)::Drama::Get+Over+It+%281996%29::https://www.imdb.com/title/tt6281486/
+1144::The Line King: Al Hirschfeld (1996)::Documentary::The+Line+King%3A+Al+Hirschfeld+%281996%29::https://www.imdb.com/title/tt2147657/
+1157::La Symphonie pastorale (1946)::Drama::La+Symphonie+pastorale+%281946%29::https://www.imdb.com/title/tt3697948/
+1181::The Shooter (1995)::Action::The+Shooter+%281995%29::https://www.imdb.com/title/tt0659852/
+1202::Withnail and I (1987)::Comedy::Withnail+and+I+%281987%29::https://www.imdb.com/title/tt13503320/
+1251::8 1/2 (1963)::Drama::8+1%2F2+%281963%29::https://www.imdb.com/title/tt1779227/
+1261::Evil Dead II (Dead By Dawn) (1987)::Action|Adventure|Comedy|Horror::Evil+Dead+II+%28Dead+By+Dawn%29+%281987%29::https://www.imdb.com/title/tt6868898/
+1294::M*A*S*H (1970)::Comedy|War::M*A*S*H+%281970%29::https://www.imdb.com/title/tt12677056/
+1319::Kids of Survival (1993)::Documentary::Kids+of+Survival+%281993%29::https://www.imdb.com/title/tt0107314/
+1335::Blood Beach (1981)::Action|Horror::Blood+Beach+%281981%29::https://www.imdb.com/title/tt10878546/
+1340::Bride of Frankenstein (1935)::Horror::Bride+of+Frankenstein+%281935%29::https://www.imdb.com/title/tt1682708/
+1421::Grateful Dead (1995)::Documentary::Grateful+Dead+%281995%29::https://www.imdb.com/title/tt0113212/
+1423::Hearts and Minds (1996)::Drama::Hearts+and+Minds+%281996%29::https://www.imdb.com/title/tt0540247/
+1430::Underworld (1997)::Thriller::Underworld+%281997%29::https://www.imdb.com/title/tt0163964/
+1433::The Machine (1994)::Comedy|Horror::The+Machine+%281994%29::https://www.imdb.com/title/tt5740542/
+1434::The Stranger (1994)::Action::The+Stranger+%281994%29::https://www.imdb.com/title/tt0123281/
+1454::SubUrbia (1997)::Comedy::SubUrbia+%281997%29::https://www.imdb.com/title/tt6173150/
+1547::Shiloh (1997)::Children's|Drama::Shiloh+%281997%29::https://www.imdb.com/title/tt6173324/
+1555::or Not To Have (1995)::Drama::or+Not+To+Have+%281995%29::https://www.imdb.com/title/tt1929993/
+1559::The Next Step (1995)::Drama::The+Next+Step+%281995%29::https://www.imdb.com/title/tt12209798/
+1706::Harlem River Drive (1996)::Drama::Harlem+River+Drive+%281996%29::https://www.imdb.com/title/tt4586332/
+1738::Vermin (1998)::Comedy::Vermin+%281998%29::https://www.imdb.com/title/tt0120881/
+1792::U.S. Marshalls (1998)::Action|Thriller::U.S.+Marshalls+%281998%29::https://www.imdb.com/title/tt11296940/
+1815::Eden (1997)::Drama::Eden+%281997%29::https://www.imdb.com/title/tt0158002/
+1969::A Nightmare on Elm Street Part 2: Freddy's Revenge (1985)::Horror::A+Nightmare+on+Elm+Street+Part+2%3A+Freddy%27s+Revenge+%281985%29::https://www.imdb.com/title/tt11111968/
+1976::Friday the 13th Part 3: 3D (1982)::Horror::Friday+the+13th+Part+3%3A+3D+%281982%29::https://www.imdb.com/title/tt3734214/
+1978::Friday the 13th Part V: A New Beginning (1985)::Horror::Friday+the+13th+Part+V%3A+A+New+Beginning+%281985%29::https://www.imdb.com/title/tt1874191/
+1988::Hello Mary Lou: Prom Night II (1987)::Horror::Hello+Mary+Lou%3A+Prom+Night+II+%281987%29::https://www.imdb.com/title/tt0879728/
+2014::Freaky Friday (1977)::Children's|Comedy::Freaky+Friday+%281977%29::https://www.imdb.com/title/tt5289822/
+2148::House (1986)::Comedy|Horror::House+%281986%29::https://www.imdb.com/title/tt8965632/
+2215::Rich and Strange (1932)::Comedy|Romance::Rich+and+Strange+%281932%29::https://www.imdb.com/title/tt12619134/
+2227::The Lodger (1926)::Thriller::The+Lodger+%281926%29::https://www.imdb.com/title/tt12934058/
+2360::The Celebration (Festen)::Drama::The+Celebration+%28Festen%29::https://www.imdb.com/title/tt7436756/
+2422::The Karate Kid III (1989)::Action|Adventure|Drama::The+Karate+Kid+III+%281989%29::https://www.imdb.com/title/tt8599866/
+2503::The Apple (Sib)::Drama::The+Apple+%28Sib%29::https://www.imdb.com/title/tt0564877/
+2510::Just the Ticket (1999)::Comedy|Romance::Just+the+Ticket+%281999%29::https://www.imdb.com/title/tt0491004/
+2576::etc. Love (1996)::Drama::etc.+Love+%281996%29::https://www.imdb.com/title/tt0609217/
+2586::Lover Goodbye (1999)::Comedy|Crime|Thriller::Lover+Goodbye+%281999%29::https://www.imdb.com/title/tt0374705/
+2593::The Monster (Il Mostro)::Comedy::The+Monster+%28Il+Mostro%29::https://www.imdb.com/title/tt1298693/
+2678::Desert Blue (1999)::Drama::Desert+Blue+%281999%29::https://www.imdb.com/title/tt0578164/
+2783::The Tomb of Ligeia (1965)::Horror::The+Tomb+of+Ligeia+%281965%29::https://www.imdb.com/title/tt1465319/
+2994::The City (1998)::Drama::The+City+%281998%29::https://www.imdb.com/title/tt6819204/
+3022::The General (1927)::Comedy::The+General+%281927%29::https://www.imdb.com/title/tt12389598/
+3145::The Cradle Will Rock (1999)::Drama::The+Cradle+Will+Rock+%281999%29::https://www.imdb.com/title/tt0886471/
+3192::The Terrorist (Malli)::Drama::The+Terrorist+%28Malli%29::https://www.imdb.com/title/tt9780318/
+3193::Creature (1999)::Documentary::Creature+%281999%29::https://www.imdb.com/title/tt0198385/
+3279::Knockout (1999)::Action|Adventure::Knockout+%281999%29::https://www.imdb.com/title/tt0645573/
+3309::A Dog's Life (1920)::Comedy::A+Dog%27s+Life+%281920%29::https://www.imdb.com/title/tt0403549/
+3320::Mifune (Mifunes sidste sang) (1999)::Comedy|Romance::Mifune+%28Mifunes+sidste+sang%29+%281999%29::https://www.imdb.com/title/tt1592809/
+3399::Sesame Street Presents Follow That Bird (1985)::Children's|Comedy::Sesame+Street+Presents+Follow+That+Bird+%281985%29::https://www.imdb.com/title/tt7877684/
+3421::Animal House (1978)::Comedy::Animal+House+%281978%29::https://www.imdb.com/title/tt9072838/
+3448::Vietnam Good Morning (1987)::Comedy|Drama|War::Vietnam+Good+Morning+%281987%29::https://www.imdb.com/title/tt12997804/
+3487::El Dorado (1967)::Western::El+Dorado+%281967%29::https://www.imdb.com/title/tt7203584/
+3569::The Idiots (Idioterne)::Comedy|Drama::The+Idiots+%28Idioterne%29::https://www.imdb.com/title/tt2427216/
+3623::Mission: Impossible 2 (2000)::Action|Thriller::Mission%3A+Impossible+2+%282000%29::https://www.imdb.com/title/tt13260102/
+3664::Puppet Master 5: The Final Chapter (1994)::Horror|Sci-Fi|Thriller::Puppet+Master+5%3A+The+Final+Chapter+%281994%29::https://www.imdb.com/title/tt5693078/
+3687::Light Years (1988)::Sci-Fi::Light+Years+%281988%29::https://www.imdb.com/title/tt1084966/
+3703::Mad Max 2 (a.k.a. The Road Warrior) (1981)::Action|Sci-Fi::Mad+Max+2+%28a.k.a.+The+Road+Warrior%29+%281981%29::https://www.imdb.com/title/tt6827276/
+3819::Tampopo (1986)::Comedy::Tampopo+%281986%29::https://www.imdb.com/title/tt0768126/
+3847::She Wolf of the SS Ilsa (1974)::Horror::She+Wolf+of+the+SS+Ilsa+%281974%29::https://www.imdb.com/title/tt6451886/
+3890::Back Stage (2000)::Documentary::Back+Stage+%282000%29::https://www.imdb.com/title/tt11427482/
+3892::Anatomy (Anatomie) (2000)::Horror::Anatomy+%28Anatomie%29+%282000%29::https://www.imdb.com/title/tt9330864/
+3930::The Creature From the Black Lagoon (1954)::Horror::The+Creature+From+the+Black+Lagoon+%281954%29::https://www.imdb.com/title/tt1449011/
