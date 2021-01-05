@@ -67,9 +67,8 @@ Well done! Enjoy our script!:satisfied:
 
 ## Input and Output
 ### step 2 get_ttid.py
-input output
 |  input   | output  | log | network | data loss |
-|  ----  |  ----  |  ----  |  ----  |  ----  |
+|  ----  |  ----  |  ----  |   :-:   |  ----  |
 | movies.dat  | excess_log.txt | err_log.txt | :o: | lost :bangbang: |
 ### step 3 content.py
 |  input   | output  | log | network | data loss |
